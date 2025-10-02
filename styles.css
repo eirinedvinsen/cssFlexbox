@@ -1,0 +1,31 @@
+.container {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  height: 95vh;
+  justify-content: space-between;
+
+  align-items: center;
+}
+
+.box {
+  align-text: center;
+  width: 150px;
+  height: 150px;
+}
+
+#boxOne {
+  background-color: red;
+}
+
+#boxTwo {
+  background-color: blueviolet;
+}
+
+#boxThree {
+  background-color: teal;
+}
+
+#boxFour {
+  background-color: crimson;
+}
