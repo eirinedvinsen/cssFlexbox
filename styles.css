@@ -42,3 +42,33 @@
 .sectionTwo{
 
 } */
+
+/*header*/
+
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+img{
+  height: 32px;
+  width: 32px;
+}
+
+nav{
+  display: flex;
+  align-items: center;
+}
+
+ul{
+  list-style-type: none;
+  display: flex;
+  align-items: baseline;
+}
+
+li{
+  display: flex;
+  justify-content: space-between;
+
+}
